@@ -1,2 +1,2 @@
 # amzn-books
-A way to find Amazon books that are highly reviewed with lots of reviewers
+A way to find Amazon books that are highly rated with lots of reviewers
